@@ -1,0 +1,1880 @@
+     1→     1→Create a premium, cinematic, futuristic website for a company named **ENRYSA**.
+     2→     2→
+     3→     3→## COMPANY CONTEXT
+     4→     4→
+     5→     5→ENRYSA is a modern import, export, sourcing, and commerce company connecting **China and Bangladesh**.
+     6→     6→
+     7→     7→The company helps businesses and individual customers source and access products from China and bring them into Bangladesh.
+     8→     8→
+     9→     9→ENRYSA operates in both:
+    10→    10→
+    11→    11→* **B2B — Business to Business**
+    12→    12→* **B2C — Business to Consumer**
+    13→    13→
+    14→    14→Core business activities include:
+    15→    15→
+    16→    16→* China product sourcing
+    17→    17→* Import services from China to Bangladesh
+    18→    18→* Export and international trade support
+    19→    19→* Supplier coordination
+    20→    20→* Product procurement
+    21→    21→* Wholesale sourcing
+    22→    22→* B2B supply
+    23→    23→* B2C product commerce
+    24→    24→* Logistics coordination
+    25→    25→* Cross-border commerce
+    26→    26→* China–Bangladesh trade solutions
+    27→    27→
+    28→    28→The website must position ENRYSA as a **serious, modern, technology-driven cross-border commerce company**.
+    29→    29→
+    30→    30→Do NOT make the website look like a traditional freight forwarding company.
+    31→    31→
+    32→    32→Do NOT make it look like a cheap Alibaba reseller.
+    33→    33→
+    34→    34→Do NOT use generic corporate blue templates.
+    35→    35→
+    36→    36→Do NOT use typical shipping website visuals with random cargo ships, handshakes, smiling office workers, or excessive container photos.
+    37→    37→
+    38→    38→The brand should feel like a **next-generation commerce infrastructure company**.
+    39→    39→
+    40→    40→Think:
+    41→    41→
+    42→    42→dark technology brand,
+    43→    43→global trade intelligence,
+    44→    44→cross-border infrastructure,
+    45→    45→AI-era company,
+    46→    46→minimal,
+    47→    47→powerful,
+    48→    48→precise,
+    49→    49→premium.
+    50→    50→
+    51→    51→## CORE CREATIVE DIRECTION
+    52→    52→
+    53→    53→Create a website inspired by the visual philosophy of modern dark AI and technology websites.
+    54→    54→
+    55→    55→The visual feeling should be:
+    56→    56→
+    57→    57→* dark
+    58→    58→* cinematic
+    59→    59→* minimal
+    60→    60→* mysterious
+    61→    61→* intelligent
+    62→    62→* highly polished
+    63→    63→* futuristic
+    64→    64→* premium
+    65→    65→* bold
+    66→    66→* confident
+    67→    67→
+    68→    68→Use a near-black background.
+    69→    69→
+    70→    70→Primary colors:
+    71→    71→
+    72→    72→* #000000
+    73→    73→* #050505
+    74→    74→* #0A0A0A
+    75→    75→* #111111
+    76→    76→
+    77→    77→Primary text:
+    78→    78→
+    79→    79→* #FFFFFF
+    80→    80→
+    81→    81→Secondary text:
+    82→    82→
+    83→    83→* #A1A1AA
+    84→    84→* #71717A
+    85→    85→
+    86→    86→Borders:
+    87→    87→
+    88→    88→* subtle white borders at 8% to 15% opacity
+    89→    89→
+    90→    90→Accent lighting:
+    91→    91→
+    92→    92→Use very subtle cold white, silver, gray, and occasional muted electric blue lighting.
+    93→    93→
+    94→    94→Do NOT use colorful gradients everywhere.
+    95→    95→
+    96→    96→Do NOT use purple SaaS gradients.
+    97→    97→
+    98→    98→Do NOT use excessive glowing neon effects.
+    99→    99→
+   100→   100→The design must feel controlled and sophisticated.
+   101→   101→
+   102→   102→## ENRYSA BRAND TYPOGRAPHY
+   103→   103→
+   104→   104→The company name **ENRYSA** must use a Viking-inspired display font.
+   105→   105→
+   106→   106→The typography should feel:
+   107→   107→
+   108→   108→* Nordic
+   109→   109→* ancient
+   110→   110→* powerful
+   111→   111→* geometric
+   112→   112→* sharp
+   113→   113→* rune-inspired
+   114→   114→* commanding
+   115→   115→
+   116→   116→Use a Viking/Norse-style font only for:
+   117→   117→
+   118→   118→* ENRYSA logo text
+   119→   119→* major brand moments
+   120→   120→* selected large visual typography
+   121→   121→
+   122→   122→Do NOT use the Viking font for paragraphs, navigation, buttons, or normal interface text.
+   123→   123→
+   124→   124→For interface typography use a modern sans-serif font similar to:
+   125→   125→
+   126→   126→Inter,
+   127→   127→Geist,
+   128→   128→Satoshi,
+   129→   129→Manrope,
+   130→   130→or Helvetica Neue.
+   131→   131→
+   132→   132→Typography hierarchy should be extremely strong.
+   133→   133→
+   134→   134→Hero heading:
+   135→   135→
+   136→   136→64px–96px desktop.
+   137→   137→
+   138→   138→Use tight letter spacing.
+   139→   139→
+   140→   140→Large headlines should have controlled line height.
+   141→   141→
+   142→   142→Body typography should be highly readable.
+   143→   143→
+   144→   144→## LOGO PRESENTATION
+   145→   145→
+   146→   146→Create a text-based ENRYSA wordmark.
+   147→   147→
+   148→   148→Display:
+   149→   149→
+   150→   150→ENRYSA
+   151→   151→
+   152→   152→Use the Viking-inspired font.
+   153→   153→
+   154→   154→Increase letter spacing slightly.
+   155→   155→
+   156→   156→The logo should feel like an ancient trading empire redesigned for the AI era.
+   157→   157→
+   158→   158→Consider creating a subtle custom rune-like symbol based on the letter:
+   159→   159→
+   160→   160→E
+   161→   161→
+   162→   162→or
+   163→   163→
+   164→   164→Y
+   165→   165→
+   166→   166→The symbol can be used as:
+   167→   167→
+   168→   168→* favicon
+   169→   169→* loading animation
+   170→   170→* section marker
+   171→   171→* background watermark
+   172→   172→* footer symbol
+   173→   173→
+   174→   174→Keep the symbol geometric and minimal.
+   175→   175→
+   176→   176→## WEBSITE STRUCTURE
+   177→   177→
+   178→   178→Create the complete responsive website with the following sections.
+   179→   179→
+   180→   180→### 1. NAVIGATION
+   181→   181→
+   182→   182→Create a floating or minimal transparent navigation bar.
+   183→   183→
+   184→   184→Left:
+   185→   185→
+   186→   186→ENRYSA Viking-style wordmark.
+   187→   187→
+   188→   188→Center or right navigation:
+   189→   189→
+   190→   190→Trade
+   191→   191→Sourcing
+   192→   192→B2B
+   193→   193→B2C
+   194→   194→Network
+   195→   195→About
+   196→   196→
+   197→   197→Primary CTA:
+   198→   198→
+   199→   199→START SOURCING
+   200→   200→
+   201→   201→The CTA should use a white background and black text.
+   202→   202→
+   203→   203→Button style:
+   204→   204→
+   205→   205→minimal,
+   206→   206→sharp,
+   207→   207→slightly rounded,
+   208→   208→premium.
+   209→   209→
+   210→   210→Navigation should become slightly blurred with a dark translucent background when scrolling.
+   211→   211→
+   212→   212→On mobile create a clean fullscreen dark navigation menu.
+   213→   213→
+   214→   214→## 2. HERO SECTION
+   215→   215→
+   216→   216→Create a full viewport cinematic hero section.
+   217→   217→
+   218→   218→The hero must immediately communicate ENRYSA's role.
+   219→   219→
+   220→   220→Primary headline:
+   221→   221→
+   222→   222→TRADE
+   223→   223→WITHOUT
+   224→   224→BORDERS.
+   225→   225→
+   226→   226→Make the typography massive.
+   227→   227→
+   228→   228→Alternative headline if it works better visually:
+   229→   229→
+   230→   230→CHINA TO
+   231→   231→BANGLADESH.
+   232→   232→SIMPLIFIED.
+   233→   233→
+   234→   234→Add small Viking-inspired ENRYSA typography above the headline.
+   235→   235→
+   236→   236→Supporting copy:
+   237→   237→
+   238→   238→"ENRYSA connects businesses and consumers in Bangladesh with products, suppliers, and opportunities across China."
+   239→   239→
+   240→   240→Add two CTAs:
+   241→   241→
+   242→   242→START SOURCING
+   243→   243→
+   244→   244→EXPLORE ENRYSA
+   245→   245→
+   246→   246→Create a cinematic animated background.
+   247→   247→
+   248→   248→The background concept should represent the connection between China and Bangladesh.
+   249→   249→
+   250→   250→Possible visual direction:
+   251→   251→
+   252→   252→A dark 3D globe or abstract world surface with two illuminated points representing China and Bangladesh.
+   253→   253→
+   254→   254→A thin white light path should dynamically connect the two locations.
+   255→   255→
+   256→   256→Small particles should move along the path, symbolizing products, information, and commerce.
+   257→   257→
+   258→   258→Alternative concept:
+   259→   259→
+   260→   260→Create an abstract black spatial environment with thousands of subtle particles flowing from one side of the screen to another.
+   261→   261→
+   262→   262→The particle movement represents cross-border commerce.
+   263→   263→
+   264→   264→The hero must NOT use a generic stock image.
+   265→   265→
+   266→   266→Add subtle mouse movement parallax.
+   267→   267→
+   268→   268→Add a minimal scroll indicator at the bottom.
+   269→   269→
+   270→   270→## 3. TRADE CONNECTION SECTION
+   271→   271→
+   272→   272→Create a visually impressive section introducing the China–Bangladesh connection.
+   273→   273→
+   274→   274→Small section label:
+   275→   275→
+   276→   276→01 / THE CONNECTION
+   277→   277→
+   278→   278→Headline:
+   279→   279→
+   280→   280→TWO MARKETS.
+   281→   281→ONE NETWORK.
+   282→   282→
+   283→   283→Supporting text:
+   284→   284→
+   285→   285→"From China's manufacturing ecosystem to Bangladesh's growing market, ENRYSA builds the connection between supply and demand."
+   286→   286→
+   287→   287→Create an interactive visual.
+   288→   288→
+   289→   289→Show:
+   290→   290→
+   291→   291→CHINA
+   292→   292→
+   293→   293→on the left.
+   294→   294→
+   295→   295→BANGLADESH
+   296→   296→
+   297→   297→on the right.
+   298→   298→
+   299→   299→Connect them using a dynamic animated line.
+   300→   300→
+   301→   301→Along the line display small moving data points.
+   302→   302→
+   303→   303→Possible labels appearing subtly:
+   304→   304→
+   305→   305→SOURCE
+   306→   306→
+   307→   307→VERIFY
+   308→   308→
+   309→   309→PROCURE
+   310→   310→
+   311→   311→MOVE
+   312→   312→
+   313→   313→DELIVER
+   314→   314→
+   315→   315→Use scroll-based animation.
+   316→   316→
+   317→   317→As the user scrolls, the connection line should progressively draw from China to Bangladesh.
+   318→   318→
+   319→   319→## 4. SERVICES / CAPABILITIES
+   320→   320→
+   321→   321→Section label:
+   322→   322→
+   323→   323→02 / WHAT WE DO
+   324→   324→
+   325→   325→Headline:
+   326→   326→
+   327→   327→COMMERCE.
+   328→   328→ENGINEERED.
+   329→   329→
+   330→   330→Create large interactive service cards.
+   331→   331→
+   332→   332→Services:
+   333→   333→
+   334→   334→PRODUCT SOURCING
+   335→   335→
+   336→   336→"Find products and manufacturing opportunities across China's extensive supplier ecosystem."
+   337→   337→
+   338→   338→IMPORT SOLUTIONS
+   339→   339→
+   340→   340→"Coordinate the journey of products from China into Bangladesh."
+   341→   341→
+   342→   342→B2B PROCUREMENT
+   343→   343→
+   344→   344→"Reliable sourcing and supply solutions designed for businesses, retailers, and growing brands."
+   345→   345→
+   346→   346→B2C COMMERCE
+   347→   347→
+   348→   348→"Giving consumers access to products and opportunities beyond local market limitations."
+   349→   349→
+   350→   350→SUPPLIER CONNECTION
+   351→   351→
+   352→   352→"Connect with manufacturing and supplier networks across China."
+   353→   353→
+   354→   354→TRADE COORDINATION
+   355→   355→
+   356→   356→"From sourcing to delivery, ENRYSA helps coordinate the moving parts of cross-border commerce."
+   357→   357→
+   358→   358→Card design:
+   359→   359→
+   360→   360→Dark background.
+   361→   361→
+   362→   362→Very subtle borders.
+   363→   363→
+   364→   364→Large service number.
+   365→   365→
+   366→   366→Large uppercase typography.
+   367→   367→
+   368→   368→Cards should react to mouse movement.
+   369→   369→
+   370→   370→On hover:
+   371→   371→
+   372→   372→border becomes slightly brighter,
+   373→   373→background lighting shifts,
+   374→   374→a thin animated line moves across the card.
+   375→   375→
+   376→   376→Do NOT use colorful icons.
+   377→   377→
+   378→   378→Use abstract geometric line icons if necessary.
+   379→   379→
+   380→   380→## 5. B2B AND B2C SECTION
+   381→   381→
+   382→   382→Create a split-screen section.
+   383→   383→
+   384→   384→Left:
+   385→   385→
+   386→   386→B2B
+   387→   387→
+   388→   388→Headline:
+   389→   389→
+   390→   390→BUILT FOR
+   391→   391→BUSINESS.
+   392→   392→
+   393→   393→Text:
+   394→   394→
+   395→   395→"Source products, connect with suppliers, and build stronger supply channels between China and Bangladesh."
+   396→   396→
+   397→   397→Show subtle categories:
+   398→   398→
+   399→   399→Retailers
+   400→   400→Wholesalers
+   401→   401→Brands
+   402→   402→Entrepreneurs
+   403→   403→Corporate Procurement
+   404→   404→
+   405→   405→CTA:
+   406→   406→
+   407→   407→EXPLORE B2B
+   408→   408→
+   409→   409→Right:
+   410→   410→
+   411→   411→B2C
+   412→   412→
+   413→   413→Headline:
+   414→   414→
+   415→   415→ACCESS
+   416→   416→MORE.
+   417→   417→
+   418→   418→Text:
+   419→   419→
+   420→   420→"Discover products and possibilities from China with a simpler path to Bangladesh."
+   421→   421→
+   422→   422→CTA:
+   423→   423→
+   424→   424→EXPLORE B2C
+   425→   425→
+   426→   426→The B2B side should feel structured and industrial.
+   427→   427→
+   428→   428→The B2C side should feel fluid and discovery-oriented.
+   429→   429→
+   430→   430→Use different abstract animations for each side.
+   431→   431→
+   432→   432→When the user moves the mouse over one side, that side should subtly expand.
+   433→   433→
+   434→   434→## 6. HOW ENRYSA WORKS
+   435→   435→
+   436→   436→Section label:
+   437→   437→
+   438→   438→03 / THE SYSTEM
+   439→   439→
+   440→   440→Headline:
+   441→   441→
+   442→   442→FROM SOURCE
+   443→   443→TO DESTINATION.
+   444→   444→
+   445→   445→Create a horizontal process timeline.
+   446→   446→
+   447→   447→Steps:
+   448→   448→
+   449→   449→01
+   450→   450→DISCOVER
+   451→   451→
+   452→   452→"We identify the product or opportunity."
+   453→   453→
+   454→   454→02
+   455→   455→SOURCE
+   456→   456→
+   457→   457→"We connect with suitable suppliers and product channels."
+   458→   458→
+   459→   459→03
+   460→   460→COORDINATE
+   461→   461→
+   462→   462→"We organize procurement and trade requirements."
+   463→   463→
+   464→   464→04
+   465→   465→MOVE
+   466→   466→
+   467→   467→"Products begin their journey from China."
+   468→   468→
+   469→   469→05
+   470→   470→DELIVER
+   471→   471→
+   472→   472→"The connection reaches Bangladesh."
+   473→   473→
+   474→   474→Animate the timeline as the user scrolls.
+   475→   475→
+   476→   476→A glowing white point should move through the timeline.
+   477→   477→
+   478→   478→Each step becomes active when the point reaches it.
+   479→   479→
+   480→   480→## 7. NETWORK / VISUAL DATA SECTION
+   481→   481→
+   482→   482→Create a full-screen dark data visualization.
+   483→   483→
+   484→   484→Headline:
+   485→   485→
+   486→   486→A NETWORK
+   487→   487→BUILT TO MOVE.
+   488→   488→
+   489→   489→Use abstract global trade visualization.
+   490→   490→
+   491→   491→Show moving points, lines, nodes, and subtle grid systems.
+   492→   492→
+   493→   493→Display animated metrics.
+   494→   494→
+   495→   495→Example metrics:
+   496→   496→
+   497→   497→2
+   498→   498→CONNECTED MARKETS
+   499→   499→
+   500→   500→B2B + B2C
+   501→   501→COMMERCE MODELS
+   502→   502→
+   503→   503→CHINA → BD
+   504→   504→CORE TRADE CORRIDOR
+   505→   505→
+   506→   506→24/7
+   507→   507→CONNECTED OPERATIONS
+   508→   508→
+   509→   509→Do NOT invent fake revenue, customer, shipment, or supplier numbers.
+   510→   510→
+   511→   511→Only use metrics that are logically true from the company information.
+   512→   512→
+   513→   513→The visual should feel like a global intelligence interface.
+   514→   514→
+   515→   515→## 8. WHY ENRYSA
+   516→   516→
+   517→   517→Section label:
+   518→   518→
+   519→   519→04 / WHY ENRYSA
+   520→   520→
+   521→   521→Headline:
+   522→   522→
+   523→   523→BEYOND
+   524→   524→IMPORTING.
+   525→   525→
+   526→   526→Create four large statements.
+   527→   527→
+   528→   528→ACCESS
+   529→   529→
+   530→   530→"Reach beyond local market limitations."
+   531→   531→
+   532→   532→CONNECTION
+   533→   533→
+   534→   534→"Bridge suppliers, products, businesses, and consumers."
+   535→   535→
+   536→   536→COORDINATION
+   537→   537→
+   538→   538→"Bring complex trade processes into a clearer system."
+   539→   539→
+   540→   540→OPPORTUNITY
+   541→   541→
+   542→   542→"Turn global product access into business possibilities."
+   543→   543→
+   544→   544→Use extremely large typography.
+   545→   545→
+   546→   546→Each statement should appear one at a time during scroll.
+   547→   547→
+   548→   548→Use cinematic fade and blur animations.
+   549→   549→
+   550→   550→## 9. BRAND STATEMENT SECTION
+   551→   551→
+   552→   552→Create a dramatic full-screen section.
+   553→   553→
+   554→   554→Center the ENRYSA Viking wordmark.
+   555→   555→
+   556→   556→Below it display:
+   557→   557→
+   558→   558→"WE DON'T JUST MOVE PRODUCTS."
+   559→   559→
+   560→   560→Then reveal:
+   561→   561→
+   562→   562→"WE MOVE OPPORTUNITY."
+   563→   563→
+   564→   564→Use a dramatic scroll animation.
+   565→   565→
+   566→   566→The first sentence should fade.
+   567→   567→
+   568→   568→The second sentence should become extremely large.
+   569→   569→
+   570→   570→Add a subtle animated China-to-Bangladesh light connection in the background.
+   571→   571→
+   572→   572→## 10. CONTACT / CTA SECTION
+   573→   573→
+   574→   574→Create a powerful final CTA.
+   575→   575→
+   576→   576→Headline:
+   577→   577→
+   578→   578→READY TO
+   579→   579→SOURCE BEYOND
+   580→   580→BORDERS?
+   581→   581→
+   582→   582→Supporting copy:
+   583→   583→
+   584→   584→"Tell us what you're looking for. ENRYSA will help you explore the path from China to Bangladesh."
+   585→   585→
+   586→   586→Primary CTA:
+   587→   587→
+   588→   588→START SOURCING
+   589→   589→
+   590→   590→Secondary CTA:
+   591→   591→
+   592→   592→TALK TO ENRYSA
+   593→   593→
+   594→   594→Create a minimal inquiry form.
+   595→   595→
+   596→   596→Fields:
+   597→   597→
+   598→   598→Name
+   599→   599→
+   600→   600→Company Name
+   601→   601→
+   602→   602→Phone / WhatsApp
+   603→   603→
+   604→   604→Email
+   605→   605→
+   606→   606→Business Type
+   607→   607→
+   608→   608→Options:
+   609→   609→
+   610→   610→B2B
+   611→   611→
+   612→   612→B2C
+   613→   613→
+   614→   614→Product or sourcing requirement
+   615→   615→
+   616→   616→Message
+   617→   617→
+   618→   618→CTA:
+   619→   619→
+   620→   620→SUBMIT REQUEST
+   621→   621→
+   622→   622→The form should look extremely clean and minimal.
+   623→   623→
+   624→   624→Use dark inputs with subtle borders.
+   625→   625→
+   626→   626→Use floating or animated labels.
+   627→   627→
+   628→   628→## 11. FOOTER
+   629→   629→
+   630→   630→Create a large cinematic footer.
+   631→   631→
+   632→   632→Display the ENRYSA Viking wordmark prominently.
+   633→   633→
+   634→   634→Tagline:
+   635→   635→
+   636→   636→CHINA × BANGLADESH
+   637→   637→CROSS-BORDER COMMERCE
+   638→   638→
+   639→   639→Footer links:
+   640→   640→
+   641→   641→Trade
+   642→   642→Sourcing
+   643→   643→B2B
+   644→   644→B2C
+   645→   645→About
+   646→   646→Contact
+   647→   647→
+   648→   648→Add:
+   649→   649→
+   650→   650→Bangladesh
+   651→   651→
+   652→   652→China
+   653→   653→
+   654→   654→Use these only as operating market labels unless actual office addresses are provided.
+   655→   655→
+   656→   656→Add social placeholders only if real social profiles will be connected.
+   657→   657→
+   658→   658→Final footer line:
+   659→   659→
+   660→   660→© ENRYSA. ALL RIGHTS RESERVED.
+   661→   661→
+   662→   662→Use a huge faded ENRYSA text in the footer background.
+   663→   663→
+   664→   664→## MOTION DESIGN
+   665→   665→
+   666→   666→Motion is extremely important.
+   667→   667→
+   668→   668→Use:
+   669→   669→
+   670→   670→GSAP-style scroll animations.
+   671→   671→
+   672→   672→Smooth scrolling.
+   673→   673→
+   674→   674→Scroll-triggered typography reveals.
+   675→   675→
+   676→   676→Text masking.
+   677→   677→
+   678→   678→Blur-to-sharp transitions.
+   679→   679→
+   680→   680→Subtle parallax.
+   681→   681→
+   682→   682→Animated connection lines.
+   683→   683→
+   684→   684→Particle movement.
+   685→   685→
+   686→   686→Cursor interactions.
+   687→   687→
+   688→   688→Magnetic buttons.
+   689→   689→
+   690→   690→Smooth card hover interactions.
+   691→   691→
+   692→   692→The animation should feel expensive.
+   693→   693→
+   694→   694→Do NOT make animations playful.
+   695→   695→
+   696→   696→Do NOT use bouncing elements.
+   697→   697→
+   698→   698→Do NOT use cartoon animations.
+   699→   699→
+   700→   700→Animations should be slow, controlled, and cinematic.
+   701→   701→
+   702→   702→Target animation duration:
+   703→   703→
+   704→   704→600ms–1400ms.
+   705→   705→
+   706→   706→Use premium easing curves.
+   707→   707→
+   708→   708→Respect prefers-reduced-motion accessibility settings.
+   709→   709→
+   710→   710→## CUSTOM CURSOR
+   711→   711→
+   712→   712→Desktop only.
+   713→   713→
+   714→   714→Create a minimal custom cursor.
+   715→   715→
+   716→   716→Default:
+   717→   717→
+   718→   718→small white circle.
+   719→   719→
+   720→   720→When hovering over links:
+   721→   721→
+   722→   722→cursor expands slightly.
+   723→   723→
+   724→   724→When hovering interactive visuals:
+   725→   725→
+   726→   726→display:
+   727→   727→
+   728→   728→EXPLORE
+   729→   729→
+   730→   730→When hovering CTA buttons:
+   731→   731→
+   732→   732→display:
+   733→   733→
+   734→   734→OPEN
+   735→   735→
+   736→   736→Disable the custom cursor on touch devices.
+   737→   737→
+   738→   738→## TECHNICAL REQUIREMENTS
+   739→   739→
+   740→   740→Build the website using a modern production-ready frontend stack.
+   741→   741→
+   742→   742→Preferred:
+   743→   743→
+   744→   744→Next.js
+   745→   745→
+   746→   746→React
+   747→   747→
+   748→   748→TypeScript
+   749→   749→
+   750→   750→Tailwind CSS
+   751→   751→
+   752→   752→Framer Motion
+   753→   753→
+   754→   754→GSAP where complex scroll animation is required.
+   755→   755→
+   756→   756→Use Three.js or React Three Fiber only for the hero or network visualization if required.
+   757→   757→
+   758→   758→Do not overuse WebGL.
+   759→   759→
+   760→   760→Prioritize performance.
+   761→   761→
+   762→   762→Requirements:
+   763→   763→
+   764→   764→Fully responsive.
+   765→   765→
+   766→   766→Desktop optimized.
+   767→   767→
+   768→   768→Tablet optimized.
+   769→   769→
+   770→   770→Mobile optimized.
+   771→   771→
+   772→   772→Semantic HTML.
+   773→   773→
+   774→   774→Accessible navigation.
+   775→   775→
+   776→   776→Keyboard accessibility.
+   777→   777→
+   778→   778→Proper focus states.
+   779→   779→
+   780→   780→SEO-friendly structure.
+   781→   781→
+   782→   782→Optimized assets.
+   783→   783→
+   784→   784→Lazy-loaded heavy visual components.
+   785→   785→
+   786→   786→Reduced motion support.
+   787→   787→
+   788→   788→Fast page loading.
+   789→   789→
+   790→   790→Avoid layout shift.
+   791→   791→
+   792→   792→Use reusable components.
+   793→   793→
+   794→   794→Create a clean component architecture.
+   795→   795→
+   796→   796→Suggested components:
+   797→   797→
+   798→   798→Navbar
+   799→   799→
+   800→   800→Hero
+   801→   801→
+   802→   802→TradeConnection
+   803→   803→
+   804→   804→Capabilities
+   805→   805→
+   806→   806→BusinessModels
+   807→   807→
+   808→   808→ProcessTimeline
+   809→   809→
+   810→   810→TradeNetwork
+   811→   811→
+   812→   812→WhyEnrysa
+   813→   813→
+   814→   814→BrandStatement
+   815→   815→
+   816→   816→ContactCTA
+   817→   817→
+   818→   818→InquiryForm
+   819→   819→
+   820→   820→Footer
+   821→   821→
+   822→   822→CustomCursor
+   823→   823→
+   824→   824→AnimatedText
+   825→   825→
+   826→   826→SectionLabel
+   827→   827→
+   828→   828→MagneticButton
+   829→   829→
+   830→   830→## MOBILE EXPERIENCE
+   831→   831→
+   832→   832→Do not simply shrink the desktop website.
+   833→   833→
+   834→   834→Create a carefully designed mobile experience.
+   835→   835→
+   836→   836→Hero headline should remain bold and cinematic.
+   837→   837→
+   838→   838→Convert complex horizontal animations into vertical flows.
+   839→   839→
+   840→   840→Disable heavy 3D effects on low-power mobile devices.
+   841→   841→
+   842→   842→Use simpler particle systems.
+   843→   843→
+   844→   844→Cards should become touch-friendly.
+   845→   845→
+   846→   846→Buttons should have a minimum touch target of 44px.
+   847→   847→
+   848→   848→Process timeline should become vertical.
+   849→   849→
+   850→   850→B2B and B2C split screen should become stacked interactive sections.
+   851→   851→
+   852→   852→Navigation should use a fullscreen menu.
+   853→   853→
+   854→   854→Maintain the premium visual experience.
+   855→   855→
+   856→   856→## COPYWRITING STYLE
+   857→   857→
+   858→   858→Use extremely concise copy.
+   859→   859→
+   860→   860→Tone:
+   861→   861→
+   862→   862→confident,
+   863→   863→global,
+   864→   864→modern,
+   865→   865→intelligent,
+   866→   866→direct.
+   867→   867→
+   868→   868→Avoid corporate clichés.
+   869→   869→
+   870→   870→Do NOT use phrases like:
+   871→   871→
+   872→   872→"Your trusted partner"
+   873→   873→
+   874→   874→"Leading import export company"
+   875→   875→
+   876→   876→"Best service"
+   877→   877→
+   878→   878→"One-stop solution"
+   879→   879→
+   880→   880→"Customer satisfaction is our priority"
+   881→   881→
+   882→   882→"Quality you can trust"
+   883→   883→
+   884→   884→The language should sound like a modern global technology and commerce company.
+   885→   885→
+   886→   886→Use short statements.
+   887→   887→
+   888→   888→Examples of the desired tone:
+   889→   889→
+   890→   890→"Trade without borders."
+   891→   891→
+   892→   892→"Access more."
+   893→   893→
+   894→   894→"Built to move."
+   895→   895→
+   896→   896→"From source to destination."
+   897→   897→
+   898→   898→"Two markets. One network."
+   899→   899→
+   900→   900→"Commerce. Engineered."
+   901→   901→
+   902→   902→"China to Bangladesh. Connected."
+   903→   903→
+   904→   904→## FINAL DESIGN OBJECTIVE
+   905→   905→
+   906→   906→The final website should make ENRYSA feel like:
+   907→   907→
+   908→   908→a cross-border commerce technology company,
+   909→   909→
+   910→   910→not a traditional import-export agency.
+   911→   911→
+   912→   912→The visual identity should combine:
+   913→   913→
+   914→   914→ancient Nordic strength through the Viking-inspired ENRYSA wordmark
+   915→   915→
+   916→   916→with
+   917→   917→
+   918→   918→modern AI-era technology aesthetics.
+   919→   919→
+   920→   920→The visitor should feel:
+   921→   921→
+   922→   922→ENRYSA is powerful.
+   923→   923→
+   924→   924→ENRYSA is modern.
+   925→   925→
+   926→   926→ENRYSA understands global commerce.
+   927→   927→
+   928→   928→ENRYSA connects China and Bangladesh.
+   929→   929→
+   930→   930→ENRYSA can serve both businesses and consumers.
+   931→   931→
+   932→   932→Create the entire website with complete sections, polished responsive design, production-quality frontend code, sophisticated interactions, and premium cinematic animations.
+   933→   933→
+   934→   934→Do not create a generic template.
+   935→   935→
+   936→   936→Make the design visually distinctive and memorable.
+   937→   937→
+   938→   938→Before finishing, review the complete website and improve any section that looks like a standard SaaS, logistics, freight, or corporate template.
+   939→   939→
+   940→   940→The final result should feel like a custom-designed digital experience built specifically for ENRYSA.
+   941→   941→Create a premium, cinematic, futuristic website for a company named **ENRYSA**.
+   942→   942→
+   943→   943→## COMPANY CONTEXT
+   944→   944→
+   945→   945→ENRYSA is a modern import, export, sourcing, and commerce company connecting **China and Bangladesh**.
+   946→   946→
+   947→   947→The company helps businesses and individual customers source and access products from China and bring them into Bangladesh.
+   948→   948→
+   949→   949→ENRYSA operates in both:
+   950→   950→
+   951→   951→* **B2B — Business to Business**
+   952→   952→* **B2C — Business to Consumer**
+   953→   953→
+   954→   954→Core business activities include:
+   955→   955→
+   956→   956→* China product sourcing
+   957→   957→* Import services from China to Bangladesh
+   958→   958→* Export and international trade support
+   959→   959→* Supplier coordination
+   960→   960→* Product procurement
+   961→   961→* Wholesale sourcing
+   962→   962→* B2B supply
+   963→   963→* B2C product commerce
+   964→   964→* Logistics coordination
+   965→   965→* Cross-border commerce
+   966→   966→* China–Bangladesh trade solutions
+   967→   967→
+   968→   968→The website must position ENRYSA as a **serious, modern, technology-driven cross-border commerce company**.
+   969→   969→
+   970→   970→Do NOT make the website look like a traditional freight forwarding company.
+   971→   971→
+   972→   972→Do NOT make it look like a cheap Alibaba reseller.
+   973→   973→
+   974→   974→Do NOT use generic corporate blue templates.
+   975→   975→
+   976→   976→Do NOT use typical shipping website visuals with random cargo ships, handshakes, smiling office workers, or excessive container photos.
+   977→   977→
+   978→   978→The brand should feel like a **next-generation commerce infrastructure company**.
+   979→   979→
+   980→   980→Think:
+   981→   981→
+   982→   982→dark technology brand,
+   983→   983→global trade intelligence,
+   984→   984→cross-border infrastructure,
+   985→   985→AI-era company,
+   986→   986→minimal,
+   987→   987→powerful,
+   988→   988→precise,
+   989→   989→premium.
+   990→   990→
+   991→   991→## CORE CREATIVE DIRECTION
+   992→   992→
+   993→   993→Create a website inspired by the visual philosophy of modern dark AI and technology websites.
+   994→   994→
+   995→   995→The visual feeling should be:
+   996→   996→
+   997→   997→* dark
+   998→   998→* cinematic
+   999→   999→* minimal
+  1000→  1000→* mysterious
+  1001→  1001→* intelligent
+  1002→  1002→* highly polished
+  1003→  1003→* futuristic
+  1004→  1004→* premium
+  1005→  1005→* bold
+  1006→  1006→* confident
+  1007→  1007→
+  1008→  1008→Use a near-black background.
+  1009→  1009→
+  1010→  1010→Primary colors:
+  1011→  1011→
+  1012→  1012→* #000000
+  1013→  1013→* #050505
+  1014→  1014→* #0A0A0A
+  1015→  1015→* #111111
+  1016→  1016→
+  1017→  1017→Primary text:
+  1018→  1018→
+  1019→  1019→* #FFFFFF
+  1020→  1020→
+  1021→  1021→Secondary text:
+  1022→  1022→
+  1023→  1023→* #A1A1AA
+  1024→  1024→* #71717A
+  1025→  1025→
+  1026→  1026→Borders:
+  1027→  1027→
+  1028→  1028→* subtle white borders at 8% to 15% opacity
+  1029→  1029→
+  1030→  1030→Accent lighting:
+  1031→  1031→
+  1032→  1032→Use very subtle cold white, silver, gray, and occasional muted electric blue lighting.
+  1033→  1033→
+  1034→  1034→Do NOT use colorful gradients everywhere.
+  1035→  1035→
+  1036→  1036→Do NOT use purple SaaS gradients.
+  1037→  1037→
+  1038→  1038→Do NOT use excessive glowing neon effects.
+  1039→  1039→
+  1040→  1040→The design must feel controlled and sophisticated.
+  1041→  1041→
+  1042→  1042→## ENRYSA BRAND TYPOGRAPHY
+  1043→  1043→
+  1044→  1044→The company name **ENRYSA** must use a Viking-inspired display font.
+  1045→  1045→
+  1046→  1046→The typography should feel:
+  1047→  1047→
+  1048→  1048→* Nordic
+  1049→  1049→* ancient
+  1050→  1050→* powerful
+  1051→  1051→* geometric
+  1052→  1052→* sharp
+  1053→  1053→* rune-inspired
+  1054→  1054→* commanding
+  1055→  1055→
+  1056→  1056→Use a Viking/Norse-style font only for:
+  1057→  1057→
+  1058→  1058→* ENRYSA logo text
+  1059→  1059→* major brand moments
+  1060→  1060→* selected large visual typography
+  1061→  1061→
+  1062→  1062→Do NOT use the Viking font for paragraphs, navigation, buttons, or normal interface text.
+  1063→  1063→
+  1064→  1064→For interface typography use a modern sans-serif font similar to:
+  1065→  1065→
+  1066→  1066→Inter,
+  1067→  1067→Geist,
+  1068→  1068→Satoshi,
+  1069→  1069→Manrope,
+  1070→  1070→or Helvetica Neue.
+  1071→  1071→
+  1072→  1072→Typography hierarchy should be extremely strong.
+  1073→  1073→
+  1074→  1074→Hero heading:
+  1075→  1075→
+  1076→  1076→64px–96px desktop.
+  1077→  1077→
+  1078→  1078→Use tight letter spacing.
+  1079→  1079→
+  1080→  1080→Large headlines should have controlled line height.
+  1081→  1081→
+  1082→  1082→Body typography should be highly readable.
+  1083→  1083→
+  1084→  1084→## LOGO PRESENTATION
+  1085→  1085→
+  1086→  1086→Create a text-based ENRYSA wordmark.
+  1087→  1087→
+  1088→  1088→Display:
+  1089→  1089→
+  1090→  1090→ENRYSA
+  1091→  1091→
+  1092→  1092→Use the Viking-inspired font.
+  1093→  1093→
+  1094→  1094→Increase letter spacing slightly.
+  1095→  1095→
+  1096→  1096→The logo should feel like an ancient trading empire redesigned for the AI era.
+  1097→  1097→
+  1098→  1098→Consider creating a subtle custom rune-like symbol based on the letter:
+  1099→  1099→
+  1100→  1100→E
+  1101→  1101→
+  1102→  1102→or
+  1103→  1103→
+  1104→  1104→Y
+  1105→  1105→
+  1106→  1106→The symbol can be used as:
+  1107→  1107→
+  1108→  1108→* favicon
+  1109→  1109→* loading animation
+  1110→  1110→* section marker
+  1111→  1111→* background watermark
+  1112→  1112→* footer symbol
+  1113→  1113→
+  1114→  1114→Keep the symbol geometric and minimal.
+  1115→  1115→
+  1116→  1116→## WEBSITE STRUCTURE
+  1117→  1117→
+  1118→  1118→Create the complete responsive website with the following sections.
+  1119→  1119→
+  1120→  1120→### 1. NAVIGATION
+  1121→  1121→
+  1122→  1122→Create a floating or minimal transparent navigation bar.
+  1123→  1123→
+  1124→  1124→Left:
+  1125→  1125→
+  1126→  1126→ENRYSA Viking-style wordmark.
+  1127→  1127→
+  1128→  1128→Center or right navigation:
+  1129→  1129→
+  1130→  1130→Trade
+  1131→  1131→Sourcing
+  1132→  1132→B2B
+  1133→  1133→B2C
+  1134→  1134→Network
+  1135→  1135→About
+  1136→  1136→
+  1137→  1137→Primary CTA:
+  1138→  1138→
+  1139→  1139→START SOURCING
+  1140→  1140→
+  1141→  1141→The CTA should use a white background and black text.
+  1142→  1142→
+  1143→  1143→Button style:
+  1144→  1144→
+  1145→  1145→minimal,
+  1146→  1146→sharp,
+  1147→  1147→slightly rounded,
+  1148→  1148→premium.
+  1149→  1149→
+  1150→  1150→Navigation should become slightly blurred with a dark translucent background when scrolling.
+  1151→  1151→
+  1152→  1152→On mobile create a clean fullscreen dark navigation menu.
+  1153→  1153→
+  1154→  1154→## 2. HERO SECTION
+  1155→  1155→
+  1156→  1156→Create a full viewport cinematic hero section.
+  1157→  1157→
+  1158→  1158→The hero must immediately communicate ENRYSA's role.
+  1159→  1159→
+  1160→  1160→Primary headline:
+  1161→  1161→
+  1162→  1162→TRADE
+  1163→  1163→WITHOUT
+  1164→  1164→BORDERS.
+  1165→  1165→
+  1166→  1166→Make the typography massive.
+  1167→  1167→
+  1168→  1168→Alternative headline if it works better visually:
+  1169→  1169→
+  1170→  1170→CHINA TO
+  1171→  1171→BANGLADESH.
+  1172→  1172→SIMPLIFIED.
+  1173→  1173→
+  1174→  1174→Add small Viking-inspired ENRYSA typography above the headline.
+  1175→  1175→
+  1176→  1176→Supporting copy:
+  1177→  1177→
+  1178→  1178→"ENRYSA connects businesses and consumers in Bangladesh with products, suppliers, and opportunities across China."
+  1179→  1179→
+  1180→  1180→Add two CTAs:
+  1181→  1181→
+  1182→  1182→START SOURCING
+  1183→  1183→
+  1184→  1184→EXPLORE ENRYSA
+  1185→  1185→
+  1186→  1186→Create a cinematic animated background.
+  1187→  1187→
+  1188→  1188→The background concept should represent the connection between China and Bangladesh.
+  1189→  1189→
+  1190→  1190→Possible visual direction:
+  1191→  1191→
+  1192→  1192→A dark 3D globe or abstract world surface with two illuminated points representing China and Bangladesh.
+  1193→  1193→
+  1194→  1194→A thin white light path should dynamically connect the two locations.
+  1195→  1195→
+  1196→  1196→Small particles should move along the path, symbolizing products, information, and commerce.
+  1197→  1197→
+  1198→  1198→Alternative concept:
+  1199→  1199→
+  1200→  1200→Create an abstract black spatial environment with thousands of subtle particles flowing from one side of the screen to another.
+  1201→  1201→
+  1202→  1202→The particle movement represents cross-border commerce.
+  1203→  1203→
+  1204→  1204→The hero must NOT use a generic stock image.
+  1205→  1205→
+  1206→  1206→Add subtle mouse movement parallax.
+  1207→  1207→
+  1208→  1208→Add a minimal scroll indicator at the bottom.
+  1209→  1209→
+  1210→  1210→## 3. TRADE CONNECTION SECTION
+  1211→  1211→
+  1212→  1212→Create a visually impressive section introducing the China–Bangladesh connection.
+  1213→  1213→
+  1214→  1214→Small section label:
+  1215→  1215→
+  1216→  1216→01 / THE CONNECTION
+  1217→  1217→
+  1218→  1218→Headline:
+  1219→  1219→
+  1220→  1220→TWO MARKETS.
+  1221→  1221→ONE NETWORK.
+  1222→  1222→
+  1223→  1223→Supporting text:
+  1224→  1224→
+  1225→  1225→"From China's manufacturing ecosystem to Bangladesh's growing market, ENRYSA builds the connection between supply and demand."
+  1226→  1226→
+  1227→  1227→Create an interactive visual.
+  1228→  1228→
+  1229→  1229→Show:
+  1230→  1230→
+  1231→  1231→CHINA
+  1232→  1232→
+  1233→  1233→on the left.
+  1234→  1234→
+  1235→  1235→BANGLADESH
+  1236→  1236→
+  1237→  1237→on the right.
+  1238→  1238→
+  1239→  1239→Connect them using a dynamic animated line.
+  1240→  1240→
+  1241→  1241→Along the line display small moving data points.
+  1242→  1242→
+  1243→  1243→Possible labels appearing subtly:
+  1244→  1244→
+  1245→  1245→SOURCE
+  1246→  1246→
+  1247→  1247→VERIFY
+  1248→  1248→
+  1249→  1249→PROCURE
+  1250→  1250→
+  1251→  1251→MOVE
+  1252→  1252→
+  1253→  1253→DELIVER
+  1254→  1254→
+  1255→  1255→Use scroll-based animation.
+  1256→  1256→
+  1257→  1257→As the user scrolls, the connection line should progressively draw from China to Bangladesh.
+  1258→  1258→
+  1259→  1259→## 4. SERVICES / CAPABILITIES
+  1260→  1260→
+  1261→  1261→Section label:
+  1262→  1262→
+  1263→  1263→02 / WHAT WE DO
+  1264→  1264→
+  1265→  1265→Headline:
+  1266→  1266→
+  1267→  1267→COMMERCE.
+  1268→  1268→ENGINEERED.
+  1269→  1269→
+  1270→  1270→Create large interactive service cards.
+  1271→  1271→
+  1272→  1272→Services:
+  1273→  1273→
+  1274→  1274→PRODUCT SOURCING
+  1275→  1275→
+  1276→  1276→"Find products and manufacturing opportunities across China's extensive supplier ecosystem."
+  1277→  1277→
+  1278→  1278→IMPORT SOLUTIONS
+  1279→  1279→
+  1280→  1280→"Coordinate the journey of products from China into Bangladesh."
+  1281→  1281→
+  1282→  1282→B2B PROCUREMENT
+  1283→  1283→
+  1284→  1284→"Reliable sourcing and supply solutions designed for businesses, retailers, and growing brands."
+  1285→  1285→
+  1286→  1286→B2C COMMERCE
+  1287→  1287→
+  1288→  1288→"Giving consumers access to products and opportunities beyond local market limitations."
+  1289→  1289→
+  1290→  1290→SUPPLIER CONNECTION
+  1291→  1291→
+  1292→  1292→"Connect with manufacturing and supplier networks across China."
+  1293→  1293→
+  1294→  1294→TRADE COORDINATION
+  1295→  1295→
+  1296→  1296→"From sourcing to delivery, ENRYSA helps coordinate the moving parts of cross-border commerce."
+  1297→  1297→
+  1298→  1298→Card design:
+  1299→  1299→
+  1300→  1300→Dark background.
+  1301→  1301→
+  1302→  1302→Very subtle borders.
+  1303→  1303→
+  1304→  1304→Large service number.
+  1305→  1305→
+  1306→  1306→Large uppercase typography.
+  1307→  1307→
+  1308→  1308→Cards should react to mouse movement.
+  1309→  1309→
+  1310→  1310→On hover:
+  1311→  1311→
+  1312→  1312→border becomes slightly brighter,
+  1313→  1313→background lighting shifts,
+  1314→  1314→a thin animated line moves across the card.
+  1315→  1315→
+  1316→  1316→Do NOT use colorful icons.
+  1317→  1317→
+  1318→  1318→Use abstract geometric line icons if necessary.
+  1319→  1319→
+  1320→  1320→## 5. B2B AND B2C SECTION
+  1321→  1321→
+  1322→  1322→Create a split-screen section.
+  1323→  1323→
+  1324→  1324→Left:
+  1325→  1325→
+  1326→  1326→B2B
+  1327→  1327→
+  1328→  1328→Headline:
+  1329→  1329→
+  1330→  1330→BUILT FOR
+  1331→  1331→BUSINESS.
+  1332→  1332→
+  1333→  1333→Text:
+  1334→  1334→
+  1335→  1335→"Source products, connect with suppliers, and build stronger supply channels between China and Bangladesh."
+  1336→  1336→
+  1337→  1337→Show subtle categories:
+  1338→  1338→
+  1339→  1339→Retailers
+  1340→  1340→Wholesalers
+  1341→  1341→Brands
+  1342→  1342→Entrepreneurs
+  1343→  1343→Corporate Procurement
+  1344→  1344→
+  1345→  1345→CTA:
+  1346→  1346→
+  1347→  1347→EXPLORE B2B
+  1348→  1348→
+  1349→  1349→Right:
+  1350→  1350→
+  1351→  1351→B2C
+  1352→  1352→
+  1353→  1353→Headline:
+  1354→  1354→
+  1355→  1355→ACCESS
+  1356→  1356→MORE.
+  1357→  1357→
+  1358→  1358→Text:
+  1359→  1359→
+  1360→  1360→"Discover products and possibilities from China with a simpler path to Bangladesh."
+  1361→  1361→
+  1362→  1362→CTA:
+  1363→  1363→
+  1364→  1364→EXPLORE B2C
+  1365→  1365→
+  1366→  1366→The B2B side should feel structured and industrial.
+  1367→  1367→
+  1368→  1368→The B2C side should feel fluid and discovery-oriented.
+  1369→  1369→
+  1370→  1370→Use different abstract animations for each side.
+  1371→  1371→
+  1372→  1372→When the user moves the mouse over one side, that side should subtly expand.
+  1373→  1373→
+  1374→  1374→## 6. HOW ENRYSA WORKS
+  1375→  1375→
+  1376→  1376→Section label:
+  1377→  1377→
+  1378→  1378→03 / THE SYSTEM
+  1379→  1379→
+  1380→  1380→Headline:
+  1381→  1381→
+  1382→  1382→FROM SOURCE
+  1383→  1383→TO DESTINATION.
+  1384→  1384→
+  1385→  1385→Create a horizontal process timeline.
+  1386→  1386→
+  1387→  1387→Steps:
+  1388→  1388→
+  1389→  1389→01
+  1390→  1390→DISCOVER
+  1391→  1391→
+  1392→  1392→"We identify the product or opportunity."
+  1393→  1393→
+  1394→  1394→02
+  1395→  1395→SOURCE
+  1396→  1396→
+  1397→  1397→"We connect with suitable suppliers and product channels."
+  1398→  1398→
+  1399→  1399→03
+  1400→  1400→COORDINATE
+  1401→  1401→
+  1402→  1402→"We organize procurement and trade requirements."
+  1403→  1403→
+  1404→  1404→04
+  1405→  1405→MOVE
+  1406→  1406→
+  1407→  1407→"Products begin their journey from China."
+  1408→  1408→
+  1409→  1409→05
+  1410→  1410→DELIVER
+  1411→  1411→
+  1412→  1412→"The connection reaches Bangladesh."
+  1413→  1413→
+  1414→  1414→Animate the timeline as the user scrolls.
+  1415→  1415→
+  1416→  1416→A glowing white point should move through the timeline.
+  1417→  1417→
+  1418→  1418→Each step becomes active when the point reaches it.
+  1419→  1419→
+  1420→  1420→## 7. NETWORK / VISUAL DATA SECTION
+  1421→  1421→
+  1422→  1422→Create a full-screen dark data visualization.
+  1423→  1423→
+  1424→  1424→Headline:
+  1425→  1425→
+  1426→  1426→A NETWORK
+  1427→  1427→BUILT TO MOVE.
+  1428→  1428→
+  1429→  1429→Use abstract global trade visualization.
+  1430→  1430→
+  1431→  1431→Show moving points, lines, nodes, and subtle grid systems.
+  1432→  1432→
+  1433→  1433→Display animated metrics.
+  1434→  1434→
+  1435→  1435→Example metrics:
+  1436→  1436→
+  1437→  1437→2
+  1438→  1438→CONNECTED MARKETS
+  1439→  1439→
+  1440→  1440→B2B + B2C
+  1441→  1441→COMMERCE MODELS
+  1442→  1442→
+  1443→  1443→CHINA → BD
+  1444→  1444→CORE TRADE CORRIDOR
+  1445→  1445→
+  1446→  1446→24/7
+  1447→  1447→CONNECTED OPERATIONS
+  1448→  1448→
+  1449→  1449→Do NOT invent fake revenue, customer, shipment, or supplier numbers.
+  1450→  1450→
+  1451→  1451→Only use metrics that are logically true from the company information.
+  1452→  1452→
+  1453→  1453→The visual should feel like a global intelligence interface.
+  1454→  1454→
+  1455→  1455→## 8. WHY ENRYSA
+  1456→  1456→
+  1457→  1457→Section label:
+  1458→  1458→
+  1459→  1459→04 / WHY ENRYSA
+  1460→  1460→
+  1461→  1461→Headline:
+  1462→  1462→
+  1463→  1463→BEYOND
+  1464→  1464→IMPORTING.
+  1465→  1465→
+  1466→  1466→Create four large statements.
+  1467→  1467→
+  1468→  1468→ACCESS
+  1469→  1469→
+  1470→  1470→"Reach beyond local market limitations."
+  1471→  1471→
+  1472→  1472→CONNECTION
+  1473→  1473→
+  1474→  1474→"Bridge suppliers, products, businesses, and consumers."
+  1475→  1475→
+  1476→  1476→COORDINATION
+  1477→  1477→
+  1478→  1478→"Bring complex trade processes into a clearer system."
+  1479→  1479→
+  1480→  1480→OPPORTUNITY
+  1481→  1481→
+  1482→  1482→"Turn global product access into business possibilities."
+  1483→  1483→
+  1484→  1484→Use extremely large typography.
+  1485→  1485→
+  1486→  1486→Each statement should appear one at a time during scroll.
+  1487→  1487→
+  1488→  1488→Use cinematic fade and blur animations.
+  1489→  1489→
+  1490→  1490→## 9. BRAND STATEMENT SECTION
+  1491→  1491→
+  1492→  1492→Create a dramatic full-screen section.
+  1493→  1493→
+  1494→  1494→Center the ENRYSA Viking wordmark.
+  1495→  1495→
+  1496→  1496→Below it display:
+  1497→  1497→
+  1498→  1498→"WE DON'T JUST MOVE PRODUCTS."
+  1499→  1499→
+  1500→  1500→Then reveal:
+  1501→  1501→
+  1502→  1502→"WE MOVE OPPORTUNITY."
+  1503→  1503→
+  1504→  1504→Use a dramatic scroll animation.
+  1505→  1505→
+  1506→  1506→The first sentence should fade.
+  1507→  1507→
+  1508→  1508→The second sentence should become extremely large.
+  1509→  1509→
+  1510→  1510→Add a subtle animated China-to-Bangladesh light connection in the background.
+  1511→  1511→
+  1512→  1512→## 10. CONTACT / CTA SECTION
+  1513→  1513→
+  1514→  1514→Create a powerful final CTA.
+  1515→  1515→
+  1516→  1516→Headline:
+  1517→  1517→
+  1518→  1518→READY TO
+  1519→  1519→SOURCE BEYOND
+  1520→  1520→BORDERS?
+  1521→  1521→
+  1522→  1522→Supporting copy:
+  1523→  1523→
+  1524→  1524→"Tell us what you're looking for. ENRYSA will help you explore the path from China to Bangladesh."
+  1525→  1525→
+  1526→  1526→Primary CTA:
+  1527→  1527→
+  1528→  1528→START SOURCING
+  1529→  1529→
+  1530→  1530→Secondary CTA:
+  1531→  1531→
+  1532→  1532→TALK TO ENRYSA
+  1533→  1533→
+  1534→  1534→Create a minimal inquiry form.
+  1535→  1535→
+  1536→  1536→Fields:
+  1537→  1537→
+  1538→  1538→Name
+  1539→  1539→
+  1540→  1540→Company Name
+  1541→  1541→
+  1542→  1542→Phone / WhatsApp
+  1543→  1543→
+  1544→  1544→Email
+  1545→  1545→
+  1546→  1546→Business Type
+  1547→  1547→
+  1548→  1548→Options:
+  1549→  1549→
+  1550→  1550→B2B
+  1551→  1551→
+  1552→  1552→B2C
+  1553→  1553→
+  1554→  1554→Product or sourcing requirement
+  1555→  1555→
+  1556→  1556→Message
+  1557→  1557→
+  1558→  1558→CTA:
+  1559→  1559→
+  1560→  1560→SUBMIT REQUEST
+  1561→  1561→
+  1562→  1562→The form should look extremely clean and minimal.
+  1563→  1563→
+  1564→  1564→Use dark inputs with subtle borders.
+  1565→  1565→
+  1566→  1566→Use floating or animated labels.
+  1567→  1567→
+  1568→  1568→## 11. FOOTER
+  1569→  1569→
+  1570→  1570→Create a large cinematic footer.
+  1571→  1571→
+  1572→  1572→Display the ENRYSA Viking wordmark prominently.
+  1573→  1573→
+  1574→  1574→Tagline:
+  1575→  1575→
+  1576→  1576→CHINA × BANGLADESH
+  1577→  1577→CROSS-BORDER COMMERCE
+  1578→  1578→
+  1579→  1579→Footer links:
+  1580→  1580→
+  1581→  1581→Trade
+  1582→  1582→Sourcing
+  1583→  1583→B2B
+  1584→  1584→B2C
+  1585→  1585→About
+  1586→  1586→Contact
+  1587→  1587→
+  1588→  1588→Add:
+  1589→  1589→
+  1590→  1590→Bangladesh
+  1591→  1591→
+  1592→  1592→China
+  1593→  1593→
+  1594→  1594→Use these only as operating market labels unless actual office addresses are provided.
+  1595→  1595→
+  1596→  1596→Add social placeholders only if real social profiles will be connected.
+  1597→  1597→
+  1598→  1598→Final footer line:
+  1599→  1599→
+  1600→  1600→© ENRYSA. ALL RIGHTS RESERVED.
+  1601→  1601→
+  1602→  1602→Use a huge faded ENRYSA text in the footer background.
+  1603→  1603→
+  1604→  1604→## MOTION DESIGN
+  1605→  1605→
+  1606→  1606→Motion is extremely important.
+  1607→  1607→
+  1608→  1608→Use:
+  1609→  1609→
+  1610→  1610→GSAP-style scroll animations.
+  1611→  1611→
+  1612→  1612→Smooth scrolling.
+  1613→  1613→
+  1614→  1614→Scroll-triggered typography reveals.
+  1615→  1615→
+  1616→  1616→Text masking.
+  1617→  1617→
+  1618→  1618→Blur-to-sharp transitions.
+  1619→  1619→
+  1620→  1620→Subtle parallax.
+  1621→  1621→
+  1622→  1622→Animated connection lines.
+  1623→  1623→
+  1624→  1624→Particle movement.
+  1625→  1625→
+  1626→  1626→Cursor interactions.
+  1627→  1627→
+  1628→  1628→Magnetic buttons.
+  1629→  1629→
+  1630→  1630→Smooth card hover interactions.
+  1631→  1631→
+  1632→  1632→The animation should feel expensive.
+  1633→  1633→
+  1634→  1634→Do NOT make animations playful.
+  1635→  1635→
+  1636→  1636→Do NOT use bouncing elements.
+  1637→  1637→
+  1638→  1638→Do NOT use cartoon animations.
+  1639→  1639→
+  1640→  1640→Animations should be slow, controlled, and cinematic.
+  1641→  1641→
+  1642→  1642→Target animation duration:
+  1643→  1643→
+  1644→  1644→600ms–1400ms.
+  1645→  1645→
+  1646→  1646→Use premium easing curves.
+  1647→  1647→
+  1648→  1648→Respect prefers-reduced-motion accessibility settings.
+  1649→  1649→
+  1650→  1650→## CUSTOM CURSOR
+  1651→  1651→
+  1652→  1652→Desktop only.
+  1653→  1653→
+  1654→  1654→Create a minimal custom cursor.
+  1655→  1655→
+  1656→  1656→Default:
+  1657→  1657→
+  1658→  1658→small white circle.
+  1659→  1659→
+  1660→  1660→When hovering over links:
+  1661→  1661→
+  1662→  1662→cursor expands slightly.
+  1663→  1663→
+  1664→  1664→When hovering interactive visuals:
+  1665→  1665→
+  1666→  1666→display:
+  1667→  1667→
+  1668→  1668→EXPLORE
+  1669→  1669→
+  1670→  1670→When hovering CTA buttons:
+  1671→  1671→
+  1672→  1672→display:
+  1673→  1673→
+  1674→  1674→OPEN
+  1675→  1675→
+  1676→  1676→Disable the custom cursor on touch devices.
+  1677→  1677→
+  1678→  1678→## TECHNICAL REQUIREMENTS
+  1679→  1679→
+  1680→  1680→Build the website using a modern production-ready frontend stack.
+  1681→  1681→
+  1682→  1682→Preferred:
+  1683→  1683→
+  1684→  1684→Next.js
+  1685→  1685→
+  1686→  1686→React
+  1687→  1687→
+  1688→  1688→TypeScript
+  1689→  1689→
+  1690→  1690→Tailwind CSS
+  1691→  1691→
+  1692→  1692→Framer Motion
+  1693→  1693→
+  1694→  1694→GSAP where complex scroll animation is required.
+  1695→  1695→
+  1696→  1696→Use Three.js or React Three Fiber only for the hero or network visualization if required.
+  1697→  1697→
+  1698→  1698→Do not overuse WebGL.
+  1699→  1699→
+  1700→  1700→Prioritize performance.
+  1701→  1701→
+  1702→  1702→Requirements:
+  1703→  1703→
+  1704→  1704→Fully responsive.
+  1705→  1705→
+  1706→  1706→Desktop optimized.
+  1707→  1707→
+  1708→  1708→Tablet optimized.
+  1709→  1709→
+  1710→  1710→Mobile optimized.
+  1711→  1711→
+  1712→  1712→Semantic HTML.
+  1713→  1713→
+  1714→  1714→Accessible navigation.
+  1715→  1715→
+  1716→  1716→Keyboard accessibility.
+  1717→  1717→
+  1718→  1718→Proper focus states.
+  1719→  1719→
+  1720→  1720→SEO-friendly structure.
+  1721→  1721→
+  1722→  1722→Optimized assets.
+  1723→  1723→
+  1724→  1724→Lazy-loaded heavy visual components.
+  1725→  1725→
+  1726→  1726→Reduced motion support.
+  1727→  1727→
+  1728→  1728→Fast page loading.
+  1729→  1729→
+  1730→  1730→Avoid layout shift.
+  1731→  1731→
+  1732→  1732→Use reusable components.
+  1733→  1733→
+  1734→  1734→Create a clean component architecture.
+  1735→  1735→
+  1736→  1736→Suggested components:
+  1737→  1737→
+  1738→  1738→Navbar
+  1739→  1739→
+  1740→  1740→Hero
+  1741→  1741→
+  1742→  1742→TradeConnection
+  1743→  1743→
+  1744→  1744→Capabilities
+  1745→  1745→
+  1746→  1746→BusinessModels
+  1747→  1747→
+  1748→  1748→ProcessTimeline
+  1749→  1749→
+  1750→  1750→TradeNetwork
+  1751→  1751→
+  1752→  1752→WhyEnrysa
+  1753→  1753→
+  1754→  1754→BrandStatement
+  1755→  1755→
+  1756→  1756→ContactCTA
+  1757→  1757→
+  1758→  1758→InquiryForm
+  1759→  1759→
+  1760→  1760→Footer
+  1761→  1761→
+  1762→  1762→CustomCursor
+  1763→  1763→
+  1764→  1764→AnimatedText
+  1765→  1765→
+  1766→  1766→SectionLabel
+  1767→  1767→
+  1768→  1768→MagneticButton
+  1769→  1769→
+  1770→  1770→## MOBILE EXPERIENCE
+  1771→  1771→
+  1772→  1772→Do not simply shrink the desktop website.
+  1773→  1773→
+  1774→  1774→Create a carefully designed mobile experience.
+  1775→  1775→
+  1776→  1776→Hero headline should remain bold and cinematic.
+  1777→  1777→
+  1778→  1778→Convert complex horizontal animations into vertical flows.
+  1779→  1779→
+  1780→  1780→Disable heavy 3D effects on low-power mobile devices.
+  1781→  1781→
+  1782→  1782→Use simpler particle systems.
+  1783→  1783→
+  1784→  1784→Cards should become touch-friendly.
+  1785→  1785→
+  1786→  1786→Buttons should have a minimum touch target of 44px.
+  1787→  1787→
+  1788→  1788→Process timeline should become vertical.
+  1789→  1789→
+  1790→  1790→B2B and B2C split screen should become stacked interactive sections.
+  1791→  1791→
+  1792→  1792→Navigation should use a fullscreen menu.
+  1793→  1793→
+  1794→  1794→Maintain the premium visual experience.
+  1795→  1795→
+  1796→  1796→## COPYWRITING STYLE
+  1797→  1797→
+  1798→  1798→Use extremely concise copy.
+  1799→  1799→
+  1800→  1800→Tone:
+  1801→  1801→
+  1802→  1802→confident,
+  1803→  1803→global,
+  1804→  1804→modern,
+  1805→  1805→intelligent,
+  1806→  1806→direct.
+  1807→  1807→
+  1808→  1808→Avoid corporate clichés.
+  1809→  1809→
+  1810→  1810→Do NOT use phrases like:
+  1811→  1811→
+  1812→  1812→"Your trusted partner"
+  1813→  1813→
+  1814→  1814→"Leading import export company"
+  1815→  1815→
+  1816→  1816→"Best service"
+  1817→  1817→
+  1818→  1818→"One-stop solution"
+  1819→  1819→
+  1820→  1820→"Customer satisfaction is our priority"
+  1821→  1821→
+  1822→  1822→"Quality you can trust"
+  1823→  1823→
+  1824→  1824→The language should sound like a modern global technology and commerce company.
+  1825→  1825→
+  1826→  1826→Use short statements.
+  1827→  1827→
+  1828→  1828→Examples of the desired tone:
+  1829→  1829→
+  1830→  1830→"Trade without borders."
+  1831→  1831→
+  1832→  1832→"Access more."
+  1833→  1833→
+  1834→  1834→"Built to move."
+  1835→  1835→
+  1836→  1836→"From source to destination."
+  1837→  1837→
+  1838→  1838→"Two markets. One network."
+  1839→  1839→
+  1840→  1840→"Commerce. Engineered."
+  1841→  1841→
+  1842→  1842→"China to Bangladesh. Connected."
+  1843→  1843→
+  1844→  1844→## FINAL DESIGN OBJECTIVE
+  1845→  1845→
+  1846→  1846→The final website should make ENRYSA feel like:
+  1847→  1847→
+  1848→  1848→a cross-border commerce technology company,
+  1849→  1849→
+  1850→  1850→not a traditional import-export agency.
+  1851→  1851→
+  1852→  1852→The visual identity should combine:
+  1853→  1853→
+  1854→  1854→ancient Nordic strength through the Viking-inspired ENRYSA wordmark
+  1855→  1855→
+  1856→  1856→with
+  1857→  1857→
+  1858→  1858→modern AI-era technology aesthetics.
+  1859→  1859→
+  1860→  1860→The visitor should feel:
+  1861→  1861→
+  1862→  1862→ENRYSA is powerful.
+  1863→  1863→
+  1864→  1864→ENRYSA is modern.
+  1865→  1865→
+  1866→  1866→ENRYSA understands global commerce.
+  1867→  1867→
+  1868→  1868→ENRYSA connects China and Bangladesh.
+  1869→  1869→
+  1870→  1870→ENRYSA can serve both businesses and consumers.
+  1871→  1871→
+  1872→  1872→Create the entire website with complete sections, polished responsive design, production-quality frontend code, sophisticated interactions, and premium cinematic animations.
+  1873→  1873→
+  1874→  1874→Do not create a generic template.
+  1875→  1875→
+  1876→  1876→Make the design visually distinctive and memorable.
+  1877→  1877→
+  1878→  1878→Before finishing, review the complete website and improve any section that looks like a standard SaaS, logistics, freight, or corporate template.
+  1879→  1879→
+  1880→  1880→The final result should feel like a custom-designed digital experience built specifically for ENRYSA.
