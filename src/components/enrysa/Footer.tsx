@@ -1,22 +1,24 @@
 'use client'
 
+import { useCallback } from 'react'
+
 const navLinks = [
-  { label: 'Trade', href: '#trade' },
-  { label: 'Sourcing', href: '#sourcing' },
-  { label: 'B2B', href: '#b2b' },
-  { label: 'B2C', href: '#b2c' },
-  { label: 'About', href: '#about' },
+  { label: 'Trade', href: '#trade-connection' },
+  { label: 'Sourcing', href: '#capabilities' },
+  { label: 'B2B', href: '#business-models' },
+  { label: 'B2C', href: '#business-models' },
+  { label: 'About', href: '#why-enrysa' },
   { label: 'Contact', href: '#contact' },
 ]
 
 const marketLinks = [
-  { label: 'Bangladesh', href: '#' },
-  { label: 'China', href: '#' },
+  { label: 'Bangladesh' },
+  { label: 'China' },
 ]
 
 const businessLinks = [
-  { label: 'B2B', href: '#b2b' },
-  { label: 'B2C', href: '#b2c' },
+  { label: 'B2B', href: '#business-models' },
+  { label: 'B2C', href: '#business-models' },
 ]
 
 function RuneE() {
@@ -59,6 +61,17 @@ function RuneE() {
 }
 
 export function Footer() {
+  const handleNavClick = useCallback(
+    (e: React.MouseEvent<HTMLAnchorElement>, href: string) => {
+      e.preventDefault()
+      const el = document.querySelector(href)
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth' })
+      }
+    },
+    []
+  )
+
   return (
     <footer className="bg-[#000000] relative overflow-hidden pt-24 md:pt-32 pb-8 px-6">
       {/* Huge faded ENRYSA watermark */}
@@ -100,7 +113,8 @@ export function Footer() {
                   <li key={link.label}>
                     <a
                       href={link.href}
-                      className="text-sm text-[#71717A] hover:text-white transition-colors duration-400 py-1 inline-block"
+                      onClick={(e) => handleNavClick(e, link.href)}
+                      className="text-sm text-[#71717A] hover:text-white transition-colors duration-300 py-1 inline-block"
                     >
                       {link.label}
                     </a>
@@ -134,8 +148,9 @@ export function Footer() {
                 {businessLinks.map((link) => (
                   <li key={link.label}>
                     <a
-                      href={link.href}
-                      className="text-sm text-[#71717A] hover:text-white transition-colors duration-400 py-1 inline-block"
+                      href={link.href!}
+                      onClick={(e) => handleNavClick(e, link.href!)}
+                      className="text-sm text-[#71717A] hover:text-white transition-colors duration-300 py-1 inline-block"
                     >
                       {link.label}
                     </a>

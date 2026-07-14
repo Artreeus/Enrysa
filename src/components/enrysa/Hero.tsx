@@ -247,7 +247,11 @@ export default function Hero() {
             ease: [0.16, 1, 0.3, 1],
           }}
         >
-          <MagneticButton href="#capabilities">
+          <MagneticButton
+            href="#capabilities"
+            className="inline-flex items-center justify-center bg-white text-black px-8 py-3 text-xs uppercase tracking-[0.15em] rounded-sm font-medium hover:bg-white/90 transition-colors min-h-[44px]"
+            data-cursor="open"
+          >
             START SOURCING
           </MagneticButton>
           <a

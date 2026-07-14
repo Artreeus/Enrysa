@@ -3,11 +3,9 @@
 import { useRef, useState, useCallback } from 'react'
 import { motion, useMotionValue, useSpring, useReducedMotion } from 'framer-motion'
 
-interface MagneticButtonProps {
+interface MagneticButtonProps extends React.AnchorHTMLAttributes<HTMLAnchorElement> {
   children: React.ReactNode
-  className?: string
   href?: string
-  onClick?: () => void
 }
 
 export function MagneticButton({
@@ -15,6 +13,7 @@ export function MagneticButton({
   className = '',
   href,
   onClick,
+  ...rest
 }: MagneticButtonProps) {
   const ref = useRef<HTMLDivElement>(null)
   const x = useMotionValue(0)
@@ -59,6 +58,7 @@ export function MagneticButton({
         href={href}
         onClick={onClick}
         className={`${isHovered ? 'bg-white/90' : ''} ${className}`}
+        {...rest}
       >
         {children}
       </Tag>
