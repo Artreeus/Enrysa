@@ -229,7 +229,7 @@ export function WhyEnrysa() {
         transition={{ duration: 2, ease: [0.16, 1, 0.3, 1] }}
         className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 font-cinzel text-[300px] md:text-[500px] lg:text-[700px] font-bold text-white pointer-events-none select-none leading-none"
       >
-        04
+        ENRYSA
       </motion.div>
 
       <div className="relative z-10 max-w-7xl mx-auto">
