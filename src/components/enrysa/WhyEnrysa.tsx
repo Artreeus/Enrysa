@@ -218,16 +218,16 @@ export function WhyEnrysa() {
 
       {/* Large faded background "04" */}
       <motion.div
-        initial={reducedMotion ? { opacity: 0.03 } : { opacity: 0, scale: 0.9 }}
+        initial={reducedMotion ? { opacity: 1 } : { opacity: 0, scale: 0.9 }}
         animate={
           isInView
-            ? { opacity: 0.03, scale: 1 }
+            ? { opacity: 1, scale: 1 }
             : reducedMotion
-              ? { opacity: 0.03 }
+              ? { opacity: 1 }
               : { opacity: 0, scale: 0.9 }
         }
         transition={{ duration: 2, ease: [0.16, 1, 0.3, 1] }}
-        className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 font-cinzel text-[300px] md:text-[500px] lg:text-[700px] font-bold text-white pointer-events-none select-none leading-none"
+        className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 font-cinzel text-[300px] md:text-[500px] lg:text-[700px] font-bold text-white/[0.06] pointer-events-none select-none leading-none"
       >
         ENRYSA
       </motion.div>
