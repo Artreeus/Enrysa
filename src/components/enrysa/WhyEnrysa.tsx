@@ -216,22 +216,6 @@ export function WhyEnrysa() {
         }}
       />
 
-      {/* Large faded background "04" */}
-      <motion.div
-        initial={reducedMotion ? { opacity: 1 } : { opacity: 0, scale: 0.9 }}
-        animate={
-          isInView
-            ? { opacity: 1, scale: 1 }
-            : reducedMotion
-              ? { opacity: 1 }
-              : { opacity: 0, scale: 0.9 }
-        }
-        transition={{ duration: 2, ease: [0.16, 1, 0.3, 1] }}
-        className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 font-cinzel text-[300px] md:text-[500px] lg:text-[700px] font-bold text-white/[0.06] pointer-events-none select-none leading-none"
-      >
-        ENRYSA
-      </motion.div>
-
       <div className="relative z-10 max-w-7xl mx-auto">
         <SectionLabel number="04" label="WHY ENRYSA" />
 
@@ -265,16 +249,35 @@ export function WhyEnrysa() {
           trade to flow intelligently.
         </motion.p>
 
-        {/* 2x2 Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-5 lg:gap-6">
-          {pillars.map((pillar, index) => (
-            <PillarCard
-              key={pillar.word}
-              pillar={pillar}
-              index={index}
-              reducedMotion={!!reducedMotion}
-            />
-          ))}
+        {/* 2x2 Grid with centered ENRYSA watermark */}
+        <div className="relative">
+          <motion.div
+            initial={reducedMotion ? { opacity: 1 } : { opacity: 0, scale: 0.9 }}
+            animate={
+              isInView
+                ? { opacity: 1, scale: 1 }
+                : reducedMotion
+                  ? { opacity: 1 }
+                  : { opacity: 0, scale: 0.9 }
+            }
+            transition={{ duration: 2, ease: [0.16, 1, 0.3, 1] }}
+            className="absolute inset-0 flex items-center justify-center pointer-events-none select-none z-0"
+          >
+            <span className="font-cinzel text-[120px] md:text-[200px] lg:text-[260px] font-bold text-white/[0.07] leading-none whitespace-nowrap">
+              ENRYSA
+            </span>
+          </motion.div>
+
+          <div className="relative z-10 grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-5 lg:gap-6">
+            {pillars.map((pillar, index) => (
+              <PillarCard
+                key={pillar.word}
+                pillar={pillar}
+                index={index}
+                reducedMotion={!!reducedMotion}
+              />
+            ))}
+          </div>
         </div>
 
         {/* Bottom stat bar */}
