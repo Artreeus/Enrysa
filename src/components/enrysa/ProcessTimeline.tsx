@@ -9,7 +9,7 @@ const steps = [
   { num: '01', title: 'DISCOVER', desc: 'We identify the product or opportunity.' },
   { num: '02', title: 'SOURCE', desc: 'We connect with suitable suppliers and product channels.' },
   { num: '03', title: 'COORDINATE', desc: 'We organize procurement and trade requirements.' },
-  { num: '04', title: 'MOVE', desc: 'Products begin their journey from China.' },
+  { num: '04', title: 'MOVE', desc: 'Products begin their journey from global suppliers.' },
   { num: '05', title: 'DELIVER', desc: 'The connection reaches Bangladesh.' },
 ]
 

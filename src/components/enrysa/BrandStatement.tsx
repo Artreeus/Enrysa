@@ -30,7 +30,7 @@ export function BrandStatement() {
     >
       {/* Sticky viewport-height container */}
       <div className="sticky top-0 h-screen flex flex-col items-center justify-center overflow-hidden px-6">
-        {/* Animated connecting line - China to Bangladesh */}
+        {/* Animated connecting line - Global to Bangladesh */}
         <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
           <motion.div
             className="w-full h-px relative"

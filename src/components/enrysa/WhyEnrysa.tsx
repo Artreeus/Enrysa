@@ -10,8 +10,8 @@ const pillars = [
     number: '01',
     word: 'ACCESS',
     title: 'Unrestricted Market Access',
-    desc: 'Break through local supply chain limitations. We open direct channels to China\'s manufacturing ecosystem — giving you access to products, materials, and categories previously out of reach.',
-    detail: 'From raw materials to finished goods, our network spans 40+ industrial hubs across Guangdong, Zhejiang, and Shandong.',
+    desc: 'Break through local supply chain limitations. We open direct channels to the world\'s most robust manufacturing ecosystems — giving you access to products, materials, and categories previously out of reach.',
+    detail: 'From raw materials to finished goods, our network spans 40+ industrial hubs across international trade zones.',
   },
   {
     number: '02',
@@ -45,7 +45,7 @@ const cardVariants = {
     transition: {
       duration: 1.2,
       delay: i * 0.15,
-      ease: [0.16, 1, 0.3, 1],
+      ease: [0.16, 1, 0.3, 1] as any,
     },
   }),
 }
@@ -57,7 +57,7 @@ const lineVariants = {
     transition: {
       duration: 1.6,
       delay: 0.4 + i * 0.15,
-      ease: [0.16, 1, 0.3, 1],
+      ease: [0.16, 1, 0.3, 1] as any,
     },
   }),
 }
@@ -71,7 +71,7 @@ const numberVariants = {
     transition: {
       duration: 0.8,
       delay: 0.2 + i * 0.15,
-      ease: [0.16, 1, 0.3, 1],
+      ease: [0.16, 1, 0.3, 1] as any,
     },
   }),
 }
@@ -240,11 +240,11 @@ export function WhyEnrysa() {
           transition={{
             duration: 0.8,
             delay: 0.3,
-            ease: [0.16, 1, 0.3, 1],
+            ease: [0.16, 1, 0.3, 1] as any,
           }}
           className="text-base md:text-lg text-[#71717A] max-w-xl mb-16 md:mb-24 leading-relaxed"
         >
-          ENRYSA exists at the intersection of two rapidly growing economies.
+          ENRYSA exists at the intersection of local markets and global trade.
           We don&apos;t facilitate transactions — we build the infrastructure for
           trade to flow intelligently.
         </motion.p>
@@ -260,7 +260,7 @@ export function WhyEnrysa() {
                   ? { opacity: 1 }
                   : { opacity: 0, scale: 0.9 }
             }
-            transition={{ duration: 2, ease: [0.16, 1, 0.3, 1] }}
+            transition={{ duration: 2, ease: [0.16, 1, 0.3, 1] as any }}
             className="absolute inset-0 flex items-center justify-center pointer-events-none select-none z-0"
           >
             <span className="font-cinzel text-[120px] md:text-[200px] lg:text-[260px] font-bold text-white/[0.07] leading-none whitespace-nowrap">
@@ -288,7 +288,7 @@ export function WhyEnrysa() {
           transition={{
             duration: 1,
             delay: 0.6,
-            ease: [0.16, 1, 0.3, 1],
+            ease: [0.16, 1, 0.3, 1] as any,
           }}
           className="mt-16 md:mt-24 border-t border-white/[0.06] pt-10 md:pt-14 grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-12"
         >

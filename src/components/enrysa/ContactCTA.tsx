@@ -91,7 +91,7 @@ export function ContactCTA() {
             <AnimatedText delay={0.15}>
               <p className="text-[#A1A1AA] text-lg mt-6 max-w-md leading-relaxed">
                 Tell us what you&apos;re looking for. ENRYSA will help you explore the path
-                from China to Bangladesh.
+                from global markets to Bangladesh.
               </p>
             </AnimatedText>
             <AnimatedText delay={0.3}>

@@ -20,14 +20,14 @@ const cinzel = Cinzel({
 
 export const metadata: Metadata = {
   title: "ENRYSA — Trade Without Borders",
-  description: "ENRYSA connects businesses and consumers in Bangladesh with products, suppliers, and opportunities across China. Cross-border commerce infrastructure.",
-  keywords: ["ENRYSA", "China", "Bangladesh", "cross-border commerce", "product sourcing", "B2B", "B2C", "import", "export"],
+  description: "ENRYSA connects businesses and consumers in Bangladesh with products, suppliers, and opportunities around the world. Global trade and commerce infrastructure.",
+  keywords: ["ENRYSA", "Global Trade", "Bangladesh", "cross-border commerce", "product sourcing", "B2B", "B2C", "import", "export", "worldwide sourcing"],
   icons: {
     icon: "/favicon.ico",
   },
   openGraph: {
     title: "ENRYSA — Trade Without Borders",
-    description: "Cross-border commerce connecting China and Bangladesh.",
+    description: "Global commerce infrastructure connecting Bangladesh to the world.",
     type: "website",
   },
 };

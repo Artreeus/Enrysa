@@ -43,7 +43,7 @@ export function MagneticButton({
     y.set(0)
   }, [x, y])
 
-  const Tag = href ? 'a' : 'button'
+  const Tag = (href ? 'a' : 'button') as any
 
   return (
     <motion.div

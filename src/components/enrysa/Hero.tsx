@@ -229,7 +229,7 @@ export default function Hero() {
           }}
         >
           ENRYSA connects businesses and consumers in Bangladesh with products,
-          suppliers, and opportunities across China.
+          suppliers, and opportunities across the globe.
         </motion.p>
 
         {/* CTA Buttons */}

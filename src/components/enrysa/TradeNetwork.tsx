@@ -7,7 +7,7 @@ import { AnimatedText } from '@/components/enrysa/AnimatedText'
 const metrics = [
   { value: '2', label: 'CONNECTED MARKETS' },
   { value: 'B2B + B2C', label: 'COMMERCE MODELS' },
-  { value: 'CHINA → BD', label: 'CORE TRADE CORRIDOR' },
+  { value: 'GLOBAL → BD', label: 'CORE TRADE CORRIDOR' },
   { value: '24/7', label: 'CONNECTED OPERATIONS' },
 ]
 

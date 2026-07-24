@@ -10,13 +10,13 @@ const services = [
     number: '01',
     title: 'PRODUCT SOURCING',
     description:
-      'Find products and manufacturing opportunities across China\'s extensive supplier ecosystem.',
+      'Find products and manufacturing opportunities across the global supplier ecosystem.',
   },
   {
     number: '02',
     title: 'IMPORT SOLUTIONS',
     description:
-      'Coordinate the journey of products from China into Bangladesh.',
+      'Coordinate the journey of products from worldwide markets into Bangladesh.',
   },
   {
     number: '03',
@@ -34,7 +34,7 @@ const services = [
     number: '05',
     title: 'SUPPLIER CONNECTION',
     description:
-      'Connect with manufacturing and supplier networks across China.',
+      'Connect with manufacturing and supplier networks across the globe.',
   },
   {
     number: '06',

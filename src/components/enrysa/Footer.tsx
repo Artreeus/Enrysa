@@ -145,7 +145,7 @@ export function Footer() {
               ENRYSA
             </h2>
             <p className="text-xs uppercase tracking-[0.2em] text-[#71717A] mt-2">
-              CHINA × BANGLADESH&ensp;·&ensp;CROSS-BORDER COMMERCE
+              GLOBAL × BANGLADESH&ensp;·&ensp;CROSS-BORDER COMMERCE
             </p>
           </div>
           <a
@@ -204,7 +204,7 @@ export function Footer() {
               </li>
               <li className="text-sm text-[#71717A] py-1.5 inline-flex items-center gap-2">
                 <span className="w-1 h-1 rounded-full bg-white/30" />
-                China
+                Global Markets
               </li>
             </ul>
 
@@ -235,7 +235,7 @@ export function Footer() {
                 Dhaka, Bangladesh
               </span>
               <span className="text-sm text-[#71717A]">
-                Guangzhou, China
+                Worldwide Sourcing Network
               </span>
             </div>
 
