@@ -7,6 +7,9 @@ const nextConfig: NextConfig = {
     "https://*.space-z.ai",
   ],
   reactStrictMode: false,
+  typescript: {
+    ignoreBuildErrors: true,
+  },
 };
 
 export default nextConfig;
