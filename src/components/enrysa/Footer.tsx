@@ -226,16 +226,20 @@ export function Footer() {
             </h3>
             <div className="flex flex-col gap-3 mb-10">
               <a
-                href="mailto:hello@enrysa.com"
+                href="mailto:info@enrysa.com"
                 className="text-sm text-white/70 hover:text-white transition-colors duration-500"
               >
-                hello@enrysa.com
+                info@enrysa.com
               </a>
-              <span className="text-sm text-[#71717A]">
-                Dhaka, Bangladesh
-              </span>
-              <span className="text-sm text-[#71717A]">
-                Worldwide Sourcing Network
+              <a
+                href="tel:+8801714396144"
+                className="text-sm text-white/70 hover:text-white transition-colors duration-500"
+              >
+                +880 171 439 6144
+              </a>
+              <span className="text-sm text-[#71717A] leading-relaxed">
+                Sky Deck, 13th Floor, Glass House,<br />
+                38 Gulshan Avenue, Dhaka 1212
               </span>
             </div>
 
