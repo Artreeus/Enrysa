@@ -2,6 +2,7 @@
 
 import { useRef, useEffect } from 'react'
 import { motion, useInView, useReducedMotion } from 'framer-motion'
+import Image from 'next/image'
 import { AnimatedText } from '@/components/enrysa/AnimatedText'
 
 const metrics = [
@@ -250,8 +251,29 @@ export function TradeNetwork() {
       </div>
 
       {/* Canvas visualization */}
-      <div className="relative flex-1 min-h-[400px]">
+      <div className="relative flex-1 min-h-[400px] flex items-center justify-center pointer-events-none">
         <NetworkCanvas />
+
+        {/* Central Master Hub Badge */}
+        <motion.div
+          initial={reducedMotion ? {} : { scale: 0.8, opacity: 0 }}
+          whileInView={{ scale: 1, opacity: 1 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
+          className="relative z-10 flex flex-col items-center justify-center p-4 md:p-5 rounded-full border border-white/15 bg-black/70 backdrop-blur-md shadow-[0_0_50px_rgba(255,255,255,0.1)] pointer-events-auto group cursor-pointer hover:border-white/30 transition-all duration-500"
+        >
+          <div className="relative w-12 h-12 md:w-16 md:h-16">
+            <Image
+              src="/enrysa-icon.png"
+              alt="ENRYSA Central Trade Hub"
+              fill
+              className="object-contain drop-shadow-[0_0_18px_rgba(255,255,255,0.25)]"
+            />
+          </div>
+          <div className="absolute -bottom-6 md:-bottom-7 whitespace-nowrap text-[9px] md:text-[10px] tracking-[0.25em] font-mono text-zinc-300 uppercase bg-zinc-950/90 border border-white/15 px-3 py-0.5 rounded-full shadow-xl">
+            CENTRAL TRADE HUB
+          </div>
+        </motion.div>
       </div>
 
       {/* Metrics overlay */}
