@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   description: "ENRYSA connects businesses and consumers in Bangladesh with products, suppliers, and opportunities around the world. Global trade and commerce infrastructure.",
   keywords: ["ENRYSA", "Global Trade", "Bangladesh", "cross-border commerce", "product sourcing", "B2B", "B2C", "import", "export", "worldwide sourcing"],
   icons: {
-    icon: "/favicon.ico",
+    icon: "/enrysa-icon.png",
   },
   openGraph: {
     title: "ENRYSA — Trade Without Borders",
