@@ -16,11 +16,14 @@ import { TradeNetwork } from '@/components/enrysa/TradeNetwork'
 import { WhyEnrysa } from '@/components/enrysa/WhyEnrysa'
 import { BrandStatement } from '@/components/enrysa/BrandStatement'
 import { ContactCTA } from '@/components/enrysa/ContactCTA'
+import { BrandShowcaseCard } from '@/components/enrysa/BrandShowcaseCard'
 import { Footer } from '@/components/enrysa/Footer'
+import { Preloader } from '@/components/enrysa/Preloader'
 
 export default function Home() {
   return (
     <main className="bg-black min-h-screen">
+      <Preloader />
       <CustomCursor />
       <Navbar />
       <Hero />
@@ -32,6 +35,7 @@ export default function Home() {
       <WhyEnrysa />
       <BrandStatement />
       <ContactCTA />
+      <BrandShowcaseCard />
       <Footer />
     </main>
   )
