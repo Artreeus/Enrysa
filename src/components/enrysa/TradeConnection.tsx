@@ -106,7 +106,7 @@ function rotateX(x: number, y: number, z: number, angle: number) {
 
 // Generate points on sphere using Fibonacci spiral lattice and classify land
 function generateSpherePoints(count: number) {
-  const points = []
+  const points: Array<{ x: number; y: number; z: number; isLand: boolean }> = []
   const goldenRatio = (1 + Math.sqrt(5)) / 2
   for (let i = 0; i < count; i++) {
     const theta = Math.acos(1 - 2 * (i + 0.5) / count)
